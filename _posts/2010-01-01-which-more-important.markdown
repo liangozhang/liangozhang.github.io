@@ -4,14 +4,14 @@ category: "read"
 title:  "人生什么更重要？[测试]"
 tags: [阅读,人生]
 ---
-### 哪个更重要？
+### aaaaaaaaaaaa，
 
->方向比努力重要，  
->身体比金钱重要，  
->生活比文凭重要，  
->情商比智商重要，  
->能力比知识重要，  
->行动比（愿望）空想重要。 
+>aaaaaaaaaaaa，  
+>aaaaaaaaaaaa，  
+>aaaaaaaaaaaa，  
+>aaaaaaaaaaaa，  
+>aaaaaaaaaaaa，  
+>aaaaaaaaaaaa， 
 
 
 ### 一生最重要的7项资产
